@@ -42,8 +42,6 @@ For example, if the user input 7, then 4, the output should be
 
 ## Task 3 - Mississippis
 
-Use a while loop to count to five
-
 The screen should output 1 Mississippi to 5 Mississippi as it counts
 
 You must also use the time.sleep function to make the while loop pause for 1 second each time
